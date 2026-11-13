@@ -1,0 +1,7 @@
+Model,MAE,RMSE,R2
+Tuned Random Forest,32538.54,49189.78,0.8154
+Random Forest,31766.87,49499.52,0.813
+Feature-Engineered Linear Regression,49645.49,69127.04,0.6353
+Lasso Regression,49646.43,69128.09,0.6353
+Ridge Regression,49652.14,69134.97,0.6352555955611363
+Linear Regression (Baseline),50670.49,70059.19,0.63
